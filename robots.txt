@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://u993784c.beget.tech/vizitka/sitemap.xml
